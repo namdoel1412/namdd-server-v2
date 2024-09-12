@@ -9,8 +9,8 @@ drachtio-alt.conf.xml
 drachtio.xcodeproj/
 aclocal.m4
 config.guess
-config.h.in
-depcomp
+# config.h.in
+# depcomp
 config.guess
 config.sub
 /compile
@@ -55,5 +55,5 @@ test/.eslintrc.json
 test/package-lock.json
 node_modules
 
-AUTHORS
-COPYING
+# AUTHORS
+# COPYING
